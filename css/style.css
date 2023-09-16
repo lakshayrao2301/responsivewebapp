@@ -127,9 +127,7 @@ html{
 
 
 /* client section */
-#client-section {
-  position: relative;
-}
+
 
 #client-section::before {
   content: "";
